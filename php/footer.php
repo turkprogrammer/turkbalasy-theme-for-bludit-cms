@@ -9,7 +9,7 @@
            <p>
             <?php echo $site->footer(); ?><span class="sep"> | </span>
             <span>
-                Powered by <a target="_blank" class="" href="https://www.bludit.com">Bludit</a>
+                Powered by <a target="_blank" class="" href="https://www.bludit.com">Bludit</a> | <i class="fa fa-github" aria-hidden="true"></i> <a target="_blank" class="" href="https://github.com/turkprogrammer/turkbalasy-theme-for-bludit-cms">TurkBalasy</a>
             </span>
            </p>
           </div>

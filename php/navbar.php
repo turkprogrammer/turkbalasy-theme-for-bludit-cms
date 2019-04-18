@@ -10,7 +10,7 @@
          <a class="nav-link" href="<?php echo Theme::siteUrl() ?>">Home
           <span class="sr-only">(current)</span></a>
         </li>
-        <li class="nav-item"><a class="nav-link" href="#">Link</a></li>
+        <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
         <li class="nav-item dropdown">
          <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
           Dropdown Menu
@@ -53,19 +53,7 @@
              <i class="fa fa-search"></i>
              <span class="screen-reader-text">Search</span>
             </button>
-           </form>
-           <ul class="nav navbar-nav ml-auto dummy-navbar navbar-clean-icon-area">
-            <li class="nav-item"><a class="nav-link wptg-facebook" href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link wptg-twitter" href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link wptg-instagram" href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link wptg-youtube" href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link wptg-pinterest" href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link wptg-linkedin" href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link wptg-google" href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link wptg-vimeo" href=""><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link wptg-tumblr" href=""><i class="fa fa-tumblr" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link wptg-flickr" href=""><i class="fa fa-flickr" aria-hidden="true"></i></a></li>
-           </ul>
+           </form>     
           </div>
          </div>
         </li>
@@ -73,3 +61,4 @@
       </div>
      </nav>
     </div>
+	
