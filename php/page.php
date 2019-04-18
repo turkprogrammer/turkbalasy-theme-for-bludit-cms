@@ -61,7 +61,7 @@
 			<?php if ($page->coverImage()): ?>
 		   <div class="hover-img-base">
             <figure class="holy-sadie">
-             <a href="#" title="Your Post Title" class="hoverable-post wptg-link-post">
+             <a href="#" title="<?php echo $page->title(); ?>" class="hoverable-post wptg-link-post">
               <img class="img-fluid wptg-post-img" src="<?php echo $page->coverImage(); ?>" data-image="post" />
               <figcaption class="overlay-content">
                <div class="overlay-cape"></div>
